@@ -30,4 +30,4 @@ A special thanks to `oakar258` in the [Minecraft Wiki Discord server](https://mi
 
 ## License
 
-[MIT License](https://github.com/mineatar-io/skin-render/blob/main/LICENSE)
+[MIT License](https://github.com/mineatar-io/skin-render/blob/main/LICENSE)1
